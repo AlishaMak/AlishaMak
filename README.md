@@ -22,6 +22,6 @@ I'm Alisa, a Data science novice.
 #### My certificates
 You can find all my certificates [here](https://github.com/AlishaMak/Practicum_projects/tree/main/certificate).  
 
-|---------------|
+______________________________________________________________________________
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlishaMak)
