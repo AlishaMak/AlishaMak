@@ -7,7 +7,6 @@ I'm Alisa, a Data science novice.
  <img width="600" src="snake/github-snake.svg" alt="snake"/>
 </p>
 
-______________________________________________________________________________
 
 #### Languages and tools
 
@@ -20,8 +19,6 @@ ______________________________________________________________________________
 <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=Postgresql&logoColor=white"/>  
 </div>
-
-______________________________________________________________________________
 
 #### My certificates
 You can find all my certificates [here](https://github.com/AlishaMak/Practicum_projects/tree/main/certificate).  
