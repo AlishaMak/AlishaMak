@@ -1,20 +1,25 @@
+
 ### Hi there 👋
 
-<!--
-**AlishaMak/AlishaMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alisa, a Data science novice.
 
-Here are some ideas to get you started:
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### Languages and tools
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=Numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciKitLearn-black?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  <img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=Postgresql&logoColor=white"/>  
+<div>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=Pandas&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=Numpy&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SciKitLearn-black?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=Postgresql&logoColor=white"/>  
+</div>
 
+#### My certificates
+You can find all my certificates [here]([certificate](https://github.com/AlishaMak/Practicum_projects/tree/main/certificate)https://github.com/AlishaMak/Practicum_projects/tree/main/certificate).
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlishaMak)
