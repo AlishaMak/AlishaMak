@@ -4,7 +4,7 @@
 I'm Alisa, a Data science novice.
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="snake/github-snake.svg" alt="snake"/>
 </p>
 
 #### Languages and tools
