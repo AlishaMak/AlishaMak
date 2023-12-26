@@ -20,6 +20,8 @@ I'm Alisa, a Data science novice.
 </div>
 
 #### My certificates
-You can find all my certificates [here](https://github.com/AlishaMak/Practicum_projects/tree/main/certificate).
+You can find all my certificates [here](https://github.com/AlishaMak/Practicum_projects/tree/main/certificate).  
+
+| |
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlishaMak)
